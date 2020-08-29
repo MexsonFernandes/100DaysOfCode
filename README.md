@@ -5,7 +5,7 @@ A take over to 100 days of code challenge. Lets learn something more exciting.
 See my [logs](LOGS.md)
 
 ## Applications
-This list contains som of the apps developed in this code challenge. Please have a look and ping me on [LinkedIn](https://www.linkedin.com/in/mexsonfernandes/). I would be happy to discuss over there.
+This list contains some of the apps developed in this code challenge. Please have a look and ping me on [LinkedIn](https://www.linkedin.com/in/mexsonfernandes/). I would be happy to discuss over there.
 
 ------------------
 
