@@ -13,18 +13,9 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@v2
             
-            - name: Get timestamp
-              uses: gerred/actions/current-time@master
-              id: current-time
-        
-            - name: Run string replace
-              uses: frabert/replace-string-action@master
-              id: format-time
-              with:
-                pattern: '[:\.]+'
-                string: "${{ steps.current-time.outputs.time }}"
-                replace-with: '-'
-                flags: 'g'
+            - name: Get todays date
+              run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
+              id: date
             
             - name: Create release
               id: create_release
@@ -32,7 +23,7 @@ jobs:
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
-                tag_name: "v${{ steps.format-time.outputs.replaced }}"
-                release_name: Release "v${{ steps.format-time.outputs.replaced }}"
+                tag_name: "v${{ steps.date.outputs.date }}"
+                release_name: Release "v${{ steps.date.outputs.date }}"
                 draft: false
                 prerelease: false
