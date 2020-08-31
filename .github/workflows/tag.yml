@@ -2,8 +2,7 @@ on:
   push:
     tags:
       - "vLOG-*"
-  schedule:
-    - cron: "0 0 * * *" # every day at midnight
+      
 name: Tag Release to Github
 
 jobs:

@@ -2,6 +2,8 @@ on:
   push:
     branches:
       - master
+  schedule:
+    - cron: "0 0 * * *"
 
 name: Branch push received
 
@@ -26,21 +28,20 @@ jobs:
           replace-with: "."
           flags: "g"
 
+      - id: next_version
+        uses: zwaldowski/semver-release-action@v1
+        with:
+          dry_run: true
+          bump: ${{ … }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          
       - name: Create release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "v${{ steps.date.format-time.date }}"
-          release_name: Release "v${{ steps.date.format-time.date }}"
+          tag_name: "${{ steps.next_version.outputs.version }}"
+          release_name: Release "${{ steps.next_version.outputs.version }}"
           draft: false
           prerelease: false
-      - id: bump
-        uses: zwaldowski/match-label-action@v1
-        with:
-          allowed: major,minor,patch
-      - uses: zwaldowski/semver-release-action@v1
-        with:
-          bump: ${{ steps.bump.outputs.match }}
-          github_token: ${{ secrets.GITHUB_TOKEN }}
