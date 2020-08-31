@@ -19,19 +19,13 @@ jobs:
         run: echo "::set-output name=date::$(date +'%Y.%m.%d')"
         id: date
 
-      - id: next_version
-        uses: zwaldowski/semver-release-action@v1
-        with:
-          dry_run: true
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
       - name: Create release
         id: create_release
         uses: actions/create-release@v1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          tag_name: "${{ steps.next_version.outputs.version }}"
+          tag_name: "${{ steps.date.outputs.date }}"
           release_name: Release "${{ steps.date.outputs.date }}"
           draft: false
           prerelease: false
