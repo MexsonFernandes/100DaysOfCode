@@ -17,13 +17,22 @@ jobs:
               run: echo "::set-output name=date::$(date +'%Y-%m-%d')"
               id: date
             
+            - name: Run string replace
+              uses: frabert/replace-string-action@master
+              id: format-time
+              with:
+                pattern: '[:\.]+'
+                string: "${{ steps.date.outputs.date }}"
+                replace-with: '.'
+                flags: 'g'
+
             - name: Create release
               id: create_release
               uses: actions/create-release@v1
               env:
                 GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
               with:
-                tag_name: "v${{ steps.date.outputs.date }}"
-                release_name: Release "v${{ steps.date.outputs.date }}"
+                tag_name: "v${{ steps.date.format-time.date }}"
+                release_name: Release "v${{ steps.date.format-time.date }}"
                 draft: false
                 prerelease: false
