@@ -1,0 +1,20 @@
+on:
+    push:
+        tags:
+            - 'vLOG-*'
+
+name: Tag Release to Github
+
+jobs:
+    build:
+        name: "Tag Logs"
+        runs-on: ubuntu-latest
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@v2
+            - name: Release code
+            - name: Push Build to Releases
+              uses: ncipollo/release-action@v1
+              with:
+                artifacts: "LOGS.md"
+                token: ${{ secrets.GITHUB_TOKEN }}
