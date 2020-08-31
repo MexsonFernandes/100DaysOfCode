@@ -14,6 +14,7 @@ Created Github code releases using Github Actions.
 * Create source code release based on push to master branch and tags.
 * Attach timestamp as tag code.
 * Auto increment the release version.
+* Add a cron job to run build every midnight.
 * Add specific file to artifact.
 * Enable/disable workflow.
 
