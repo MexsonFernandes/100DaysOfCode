@@ -16,6 +16,7 @@ This are some of the stack that I am learning over the challenge.
 
 <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
 <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?logo=github-actions&logoColor=white" />
+<img alt="github actions" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" 
 
 --------------
 Credits: [ 100 days of code by Alex Kallaway](https://github.com/kallaway/100-days-of-code)

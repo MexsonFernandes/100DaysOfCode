@@ -2,6 +2,20 @@ Log of 100 Days of code
 
 ## Progress:
 
+**Day 2**
+
+#### 1st September 2020
+**Stack:** Nuxt.js
+
+**Demo:** https://robomx.tech/socal
+
+**Progress:**
+Trigger dark/light mode in Nuxt.js. I wanted to learn this from so long.
+* Icon replacement.
+* Neumorphic fixes.
+* Use of variables in CSS.
+
+
 **Day 1**
 
 #### 31st August 2020
