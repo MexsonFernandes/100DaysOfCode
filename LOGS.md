@@ -18,7 +18,6 @@ Created Github code releases using Github Actions.
 * Enable/disable workflow.
 
 
-
 **Day 0**
 
 #### 30th August 2020
