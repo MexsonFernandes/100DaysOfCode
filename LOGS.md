@@ -2,6 +2,18 @@ Log of 100 Days of code
 
 ## Progress:
 
+
+**Day 3**
+
+#### 2nd September 2020
+**Stack:** Nuxt.js, Vercel
+
+**Demo:** https://nuxt-ssr-api-cache.vercel.app/
+
+**Progress:**
+API data cache in Nuxt SSR app.
+Now I can create the communication between server and client as per my need.
+
 **Day 2**
 
 #### 1st September 2020
