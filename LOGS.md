@@ -3,20 +3,22 @@ Log of 100 Days of code
 ## Progress:
 
 
-**Day 3**
+### **Day 3**
 
-#### 2nd September 2020
+###### 2nd September 2020
 **Stack:** Nuxt.js, Vercel
 
 **Demo:** https://nuxt-ssr-api-cache.vercel.app/
+
+**Source:** https://github.com/MexsonFernandes/nuxt-ssr-api-cache
 
 **Progress:**
 API data cache in Nuxt SSR app.
 Now I can create the communication between server and client as per my need.
 
-**Day 2**
+### **Day 2**
 
-#### 1st September 2020
+###### 1st September 2020
 **Stack:** Nuxt.js
 
 **Demo:** https://robomx.tech/socal
@@ -28,9 +30,9 @@ Trigger dark/light mode in Nuxt.js. I wanted to learn this from so long.
 * Use of variables in CSS.
 
 
-**Day 1**
+### **Day 1**
 
-#### 31st August 2020
+###### 31st August 2020
 **Stack:** Github Actions 
 
 **Link to code:** https://github.com/MexsonFernandes/100daysofcode/blob/master/.github/workflows/
@@ -46,7 +48,7 @@ Created Github code releases using Github Actions.
 
 **Day 0**
 
-#### 30th August 2020
+###### 30th August 2020
 
 Starting a new cool journey
 
