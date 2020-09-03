@@ -2,6 +2,18 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 4/99**
+
+###### 3rd September 2020
+**Stack:** Docker, Rails
+
+Today started customising Greenlight dashboard of BigBlueButton platform.
+**Progress:**
+Connected Github repos with Gitlab for pipeline.
+Custom docker image attached.
+Lot of digging and testing was required to get this running.
+I had explored about the Ruby on Rails web structure.
+
 
 ### **Day 3**
 
