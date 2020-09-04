@@ -2,6 +2,14 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 5/99**
+
+###### 4th September 2020
+**Stack:** Git
+
+Document all devops pipeline examples.
+Repo: https://github.com/MexsonFernandes/devops-pipelines
+
 ### **Day 4/99**
 
 ###### 3rd September 2020
