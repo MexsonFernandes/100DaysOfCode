@@ -2,6 +2,12 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 6/99**
+
+###### 5th September 2020
+Starting OnSeAn platform. Formulated some initial features and tech to be used. Bit confused about the querying mechanism but lets see.
+Repo: https://github.com/robomx/onsean
+
 ### **Day 5/99**
 
 ###### 4th September 2020
