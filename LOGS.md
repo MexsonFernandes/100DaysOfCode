@@ -2,6 +2,13 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 7/99**
+
+###### 5th September 2020
+Netlify CMS will commit files to Github and can solve the hosting issue with unique slug urls.
+Repo: https://github.com/robomx/onsean
+
+
 ### **Day 6/99**
 
 ###### 5th September 2020
