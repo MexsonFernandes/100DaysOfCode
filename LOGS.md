@@ -2,6 +2,12 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 8/99**
+
+###### 7th September 2020
+Hosted Gatsby template on Netlify CMS.
+Hosted: https://onsean.robomx.tech
+
 ### **Day 7/99**
 
 ###### 6th September 2020
