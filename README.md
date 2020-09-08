@@ -29,6 +29,7 @@ This are some of the stack that I am learning over the challenge.
     <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white"/>
     <img alt="docker" src="https://img.shields.io/badge/-Docker-2580f7?logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white"/>
+    <img alt="netlify" src="https://img.shields.io/badge/-Netlify-39adbb?logo=netlify&logoColor=white"/>
  </p>
  
 --------------
