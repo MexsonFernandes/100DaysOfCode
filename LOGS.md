@@ -2,6 +2,19 @@ Log of 100 Days of code
 
 ## Progress:
 
+
+### **Day 10/99**
+
+###### 9th September 2020
+Logo of OnSean done.
+Link: https://onsean.robomx.tech/static/onsean-b14f13038393c1adf688caa90234eba7.png
+
+### **Day 9/99**
+
+###### 8th September 2020
+Customised template. Started with file structure. Removed extra template code.
+Hosted: https://onsean.robomx.tech
+
 ### **Day 8/99**
 
 ###### 7th September 2020
