@@ -2,6 +2,17 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 11/99**
+
+###### 10th September 2020
+**Stack:** Netlify CMS, Gatsby
+
+**Progress:**
+Git Gateway integrated with login providers. Few more changes in UI done. Now we are good to post data.
+
+Link: https://onsean.robomx.tech/admin
+
+Repo: https://github.com/robomx/onsean
 
 ### **Day 10/99**
 
@@ -32,6 +43,7 @@ Repo: https://github.com/robomx/onsean
 
 ###### 5th September 2020
 Starting OnSeAn platform. Formulated some initial features and tech to be used. Bit confused about the querying mechanism but lets see.
+
 Repo: https://github.com/robomx/onsean
 
 ### **Day 5/99**
@@ -40,6 +52,7 @@ Repo: https://github.com/robomx/onsean
 **Stack:** Git
 
 Document all devops pipeline examples.
+
 Repo: https://github.com/MexsonFernandes/devops-pipelines
 
 ### **Day 4/99**
@@ -48,6 +61,7 @@ Repo: https://github.com/MexsonFernandes/devops-pipelines
 **Stack:** Docker, Rails
 
 Today started customising Greenlight dashboard of BigBlueButton platform.
+
 **Progress:**
 Connected Github repos with Gitlab for pipeline.
 Custom docker image attached.
