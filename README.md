@@ -15,6 +15,7 @@ This list contains som of the apps developed in this code challenge. Please have
 3. [Nuxt.js API cache](https://nuxt-ssr-api-cache.vercel.app/) / [Source Code](https://github.com/MexsonFernandes/nuxt-ssr-api-cache)
 4. [DevOps Pipelines](https://github.com/MexsonFernandes/devops-pipelines)
 5. [OnSeAn](https://github.com/RoboMx/OnSeAn)
+6. [Web Dialog Alert](https://github.com/RoboMx/web-dialog-alert)
 
 ---
 
@@ -31,6 +32,7 @@ This are some of the stack that I am learning over the challenge.
     <img alt="git" src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white"/>
     <img alt="netlify" src="https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=39adbb"/>
     <img alt="netlify" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>
+    <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
  </p>
  
 --------------

@@ -2,6 +2,18 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 12/99**
+
+###### 11th September 2020
+**Stack:** NPM
+
+**Progress:**
+Create Github Action to push NPM package. Added small sample test case.
+
+Link: https://www.npmjs.com/package/robomx-webdialogalert
+
+Repo: https://github.com/RoboMx/web-dialog-alert
+
 ### **Day 11/99**
 
 ###### 10th September 2020
