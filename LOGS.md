@@ -2,6 +2,17 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 13/99**
+
+###### 12th September 2020
+**Stack:** Productivity 
+
+**Progress:**
+Started self check on my prod lose stuff.
+Note: "Special ->" are the ones added today.
+
+Repo: https://t.co/Id8xprNYBU?amp=1
+
 ### **Day 12/99**
 
 ###### 11th September 2020
