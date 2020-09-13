@@ -16,6 +16,7 @@ This list contains som of the apps developed in this code challenge. Please have
 4. [DevOps Pipelines](https://github.com/MexsonFernandes/devops-pipelines)
 5. [OnSeAn](https://github.com/RoboMx/OnSeAn)
 6. [Web Dialog Alert](https://github.com/RoboMx/web-dialog-alert)
+7. [Nuxt.js PWA + TWA Boilerplate](https://github.com/MexsonFernandes/nuxtjs-pwa-boilerplate)
 
 ---
 
