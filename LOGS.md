@@ -2,6 +2,20 @@ Log of 100 Days of code
 
 ## Progress:
 
+
+### **Day 14/99**
+
+###### 13th September 2020
+**Stack:** Nuxtjs, Vercel
+
+**Progress:**
+* Created a fully configured PWA app using Nuxt.js
+* Add support of TWA.
+
+Repo: https://github.com/MexsonFernandes/nuxtjs-pwa-boilerplate
+
+Demo: https://nuxtjs-pwa-boilerplate.vercel.app/
+
 ### **Day 13/99**
 
 ###### 12th September 2020
