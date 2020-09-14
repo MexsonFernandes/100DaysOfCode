@@ -2,6 +2,19 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 15/99**
+
+###### 14th September 2020
+**Stack:** Nuxtjs, Vercel, CodeCheck, Lighthouse
+
+**Progress:**
+* Created codecheck pipeline
+* Github Actions to run lighthouse score on a url.
+* Check for new update available.
+
+Repo: https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate
+
+Demo: https://nuxtjs-pwa-boilerplate.vercel.app/
 
 ### **Day 14/99**
 
