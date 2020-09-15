@@ -8,7 +8,7 @@ See my [logs](LOGS.md)
 
 ## Applications
 
-This list contains som of the apps developed in this code challenge. Please have a look and ping me on [LinkedIn](https://www.linkedin.com/in/mexsonfernandes/). I would be happy to discuss over there.
+This list contains applications developed or modified in this code challenge. Please have a look and ping me on [LinkedIn](https://www.linkedin.com/in/mexsonfernandes/). I would be happy to discuss over there.
 
 1. [Github Readme](https://github.com/MexsonFernandes/MexsonFernandes)
 2. [Github Code Releases](https://github.com/MexsonFernandes/100daysofcode/blob/master/.github/workflows/)
@@ -22,7 +22,7 @@ This list contains som of the apps developed in this code challenge. Please have
 
 ## Tech Stack
 
-This are some of the stack that I am learning over the challenge.
+This are some of the stack that I am learning or improving over the challenge.
 
 <p>
     <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white">
@@ -34,7 +34,8 @@ This are some of the stack that I am learning over the challenge.
     <img alt="netlify" src="https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=39adbb"/>
     <img alt="netlify" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
+    <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" />
  </p>
  
 --------------
-Credits: [ 100 days of code by Alex Kallaway](https://github.com/kallaway/100-days-of-code)
+Credits: [100 days of code by Alex Kallaway](https://github.com/kallaway/100-days-of-code)
