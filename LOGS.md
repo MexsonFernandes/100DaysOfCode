@@ -2,6 +2,19 @@ Log of 100 Days of code
 
 ## Progress:
 
+### **Day 16/99**
+
+###### 15th September 2020
+**Stack:** Nuxtjs
+
+**Progress:**
+* Add app version in vue template
+* Get app manifest data in template.
+
+Repo: https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate
+
+Demo: https://nuxtjs-pwa-boilerplate.vercel.app/
+
 ### **Day 15/99**
 
 ###### 14th September 2020
