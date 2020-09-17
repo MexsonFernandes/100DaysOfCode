@@ -32,9 +32,11 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="docker" src="https://img.shields.io/badge/-Docker-2580f7?logo=docker&logoColor=white"/>
     <img alt="git" src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white"/>
     <img alt="netlify" src="https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=39adbb"/>
-    <img alt="netlify" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>
+    <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>
+    <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-fff?logo=gatsby&logoColor=542c85"/>
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
     <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" />
+    <img alt="rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?logo=ruby&logoColor=white" />
  </p>
  
 --------------
