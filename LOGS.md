@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 18 | 18th September 2020 | <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/> | CMS routes + git branch | https://github.com/robomx/onsean | https://onsean.robomx.tech/
 | 17 | 17th September 2020 | <img alt="Markdown" src="https://img.shields.io/badge/Markdown-000?logo=markdown&logoColor=white"> | Tabular form of logs | https://github.com/MexsonFernandes/100DaysOfCode/edit/master/LOGS.md | _
 | 16| 15th September 2020| <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create app version and add manifest data in vue template.| https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate| https://nuxtjs-pwa-boilerplate.vercel.app/
 | 15| 14th September 2020| <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /><img alt="vercel" src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white"/>  <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" />| Create codecheck pipeline, Github Actions to run lighthouse score on a url, Check for new update available.| https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate| https://nuxtjs-pwa-boilerplate.vercel.app/
