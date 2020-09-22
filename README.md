@@ -18,6 +18,7 @@ This list contains applications developed or modified in this code challenge. Pl
 6. [Web Dialog Alert](https://github.com/RoboMx/web-dialog-alert)
 7. [Nuxt.js PWA + TWA Boilerplate](https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate)
 8. [ConVid](https://convid.robomx.tech) / [Source Code](https://gitlab.com/robomx/bbb-greenlight-ui)
+9. [Ionic Angular Utility](https://github.com/MexsonFernandes/ionic.utils)
 
 ---
 
