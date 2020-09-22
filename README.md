@@ -38,6 +38,8 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
     <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" />
     <img alt="rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?logo=ruby&logoColor=white" />
+    <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" />l
+    <img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" />
  </p>
  
 --------------
