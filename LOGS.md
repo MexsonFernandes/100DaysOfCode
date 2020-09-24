@@ -4,7 +4,8 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 21 | 23nd September 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Fixed app update flow | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate.vercel.app/
+| 22 | 24th September 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Compute function time | https://github.com/MexsonFernandes/func-time | _
+| 21 | 23rd September 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Fixed app update flow | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate.vercel.app/
 | 20 | 22nd September 2020 | <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" /><img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" /> | Ionic utility service | https://github.com/MexsonFernandes/ionic.utils | _
 | 19 | 21st September 2020 |<img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="vercel" src="https://img.shields.io/badge/-Vercel-000?logo=vercel&logoColor=white"/> | PWA offline/online alerts, attach Github repo to Vercel | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate.vercel.app/
 | 18 | 18th September 2020 | <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/> | CMS routes + git branch | https://github.com/robomx/onsean | https://onsean.robomx.tech/
