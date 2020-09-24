@@ -19,6 +19,7 @@ This list contains applications developed or modified in this code challenge. Pl
 7. [Nuxt.js PWA + TWA Boilerplate](https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate)
 8. [ConVid](https://convid.robomx.tech) / [Source Code](https://gitlab.com/robomx/bbb-greenlight-ui)
 9. [Ionic Angular Utility](https://github.com/MexsonFernandes/ionic.utils)
+10. [Compute function running time using decorators](https://github.com/MexsonFernandes/func-time)
 
 ---
 
@@ -41,6 +42,8 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?logo=ruby&logoColor=white" />
     <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" />l
     <img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" />
+    <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
  </p>
  
 --------------
