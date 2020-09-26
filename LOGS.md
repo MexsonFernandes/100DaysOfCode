@@ -4,7 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 24 | 26th September 2020 | | Google Coding challenge | _ | _
+| 24 | 26th September 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" /> | Google Coding challenge | _ | _
 | 23 | 25th September 2020 | - | Community platform for RoboMx | https://robomx.tribe.so | https://robomx.tech
 | 22 | 24th September 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Compute function time | https://github.com/MexsonFernandes/func-time | _
 | 21 | 23rd September 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Fixed app update flow | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate.vercel.app/
