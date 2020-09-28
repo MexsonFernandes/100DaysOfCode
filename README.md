@@ -20,6 +20,7 @@ This list contains applications developed or modified in this code challenge. Pl
 8. [ConVid](https://convid.robomx.tech) / [Source Code](https://gitlab.com/robomx/bbb-greenlight-ui)
 9. [Ionic Angular Utility](https://github.com/MexsonFernandes/ionic.utils)
 10. [Compute function running time using decorators](https://github.com/MexsonFernandes/func-time)
+11. [FreeCodeCamp Quality Assurance Course updates](https://github.com/MexsonFernandes/freecodecamp-quality-assurance)
 
 ---
 
