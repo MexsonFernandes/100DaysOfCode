@@ -4,6 +4,8 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 26 | 28th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Basic test case in unit test suite @21% completed | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
+| 25 | 27th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | FreeCodeCamp quality assurance course started with sandbox on Repl.it | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
 | 24 | 26th September 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" /> | Google Coding challenge | _ | _
 | 23 | 25th September 2020 | - | Community platform for RoboMx | https://robomx.tribe.so | https://robomx.tech
 | 22 | 24th September 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Compute function time | https://github.com/MexsonFernandes/func-time | _
