@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 28 | 30th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Quality assurance course completed! | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
 | 27 | 29th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | test suite @71% progress so far. Unit test cases done | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
 | 26 | 28th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Basic test case in unit test suite @21% completed | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
 | 25 | 27th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | FreeCodeCamp quality assurance course started with sandbox on Repl.it | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
