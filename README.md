@@ -41,7 +41,7 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />
     <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" />
     <img alt="rails" src="https://img.shields.io/badge/-Ruby on Rails-CC0000?logo=ruby&logoColor=white" />
-    <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" />l
+    <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" />
     <img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" />
     <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" />
