@@ -21,7 +21,7 @@ This list contains applications developed or modified in this code challenge. Pl
 9. [Ionic Angular Utility](https://github.com/MexsonFernandes/ionic.utils)
 10. [Compute function running time using decorators](https://github.com/MexsonFernandes/func-time)
 11. [FreeCodeCamp Quality Assurance Course updates](https://github.com/MexsonFernandes/freecodecamp-quality-assurance)
-
+12. [Todo List Blockstack DApp](https://blockstack-todo-dapp.netlify.app/) / [Source Code](https://github.com/MexsonFernandes/blockstack-todos)
 ---
 
 ## Tech Stack
@@ -44,7 +44,8 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" />l
     <img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" />
     <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />
+    <img alt="Python" src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" />
+    <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DBFB" />
  </p>
  
 --------------
