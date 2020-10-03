@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 31 | 3rd October 2020 | [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) | RoboMx community OSS | https://github.com/RoboMx/community | https://robomx.tech
 | 30 | 2nd October 2020 | <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DBFB" /> | Dapp Blockstack Todo app (added export option) | https://github.com/MexsonFernandes/blockstack-todos | https://blockstack-todo-dapp.netlify.app/
 | 29 | 1st October 2020 | [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)  | OSS contribution repos for Hacktoberfest 2020 | https://github.com/litmuschaos/litmus/issues/2156 | _
 | 28 | 30th September 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Quality assurance course completed! | https://freecodecamp-quality-assurance-1.mexsonfernandes.repl.co | https://github.com/MexsonFernandes/freecodecamp-quality-assurance
