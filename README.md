@@ -22,6 +22,7 @@ This list contains applications developed or modified in this code challenge. Pl
 10. [Compute function running time using decorators](https://github.com/MexsonFernandes/func-time)
 11. [FreeCodeCamp Quality Assurance Course updates](https://github.com/MexsonFernandes/freecodecamp-quality-assurance)
 12. [Todo List Blockstack DApp](https://blockstack-todo-dapp.netlify.app/) / [Source Code](https://github.com/MexsonFernandes/blockstack-todos)
+13. [RoboMx Community](https://robomx.tech/) / [Source Code](https://github.com/RoboMx/community)
 ---
 
 ## Tech Stack
