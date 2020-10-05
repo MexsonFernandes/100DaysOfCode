@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 33 | 5th October 2020 | <img alt="Django" src="https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white" /> | Sanitised old repos + add hit counters using https://hits.seeyoufarm.com/ | https://github.com/MexsonFernandes/Boilerplate-for-Django-ML-Model-Deployment | _
 | 32 | 4th October 2020 | <img alt="Github Docs" src="https://img.shields.io/badge/-Github Docs-000?logo=github&logoColor=white" /> <img alt="netlify" src="https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=39adbb"/> | Change meta doc info and host on Netlify | https://github.com/RoboMx/community/tree/master/docs | https://docs.robomx.tech
 | 31 | 3rd October 2020 | [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) | RoboMx community OSS | https://github.com/RoboMx/community | https://robomx.tech
 | 30 | 2nd October 2020 | <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DBFB" /> | Dapp Blockstack Todo app (added export option) | https://github.com/MexsonFernandes/blockstack-todos | https://blockstack-todo-dapp.netlify.app/
