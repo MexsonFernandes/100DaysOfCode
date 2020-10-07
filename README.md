@@ -22,7 +22,7 @@ This list contains applications developed or modified in this code challenge. Pl
 10. [Compute function running time using decorators](https://github.com/MexsonFernandes/func-time)
 11. [FreeCodeCamp Quality Assurance Course updates](https://github.com/MexsonFernandes/freecodecamp-quality-assurance)
 12. [Todo List Blockstack DApp](https://blockstack-todo-dapp.netlify.app/) / [Source Code](https://github.com/MexsonFernandes/blockstack-todos)
-13. [RoboMx Community](https://robomx.tech/) / [Source Code](https://github.com/RoboMx/community)
+13. [RoboMx Community](https://robomx.tech/) / [Source Code](https://gitlab.com/robomx/community)
 ---
 
 ## Tech Stack
@@ -47,6 +47,7 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />
     <img alt="Python" src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DBFB" />
+    <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-000?logo=gitlab&logoColor=61DBFB" />
  </p>
  
 --------------
