@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 36 | 8th October 2020 | <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-fff?logo=algolia&logoColor=61DBFB" /> | Plugin addition to OnSeAn | https://github.com/MexsonFernandes/OnSeAn | https://onsean.robomx.tech/
 | 35 | 7th October 2020 | <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-000?logo=gitlab&logoColor=61DBFB" /> | Mirrored repository, update to branch for RoboMx community | https://gitlab.com/robomx/community | https://gitlab.com/robomx/community/-/tree/robomx
 | 34 | 6th October 2020 | <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DBFB" /> | PR changes, community build check | https://github.com/blockstack/blockstack-todos/pull/50 | https://github.com/MexsonFernandes/blockstack-todos
 | 33 | 5th October 2020 | <img alt="Django" src="https://img.shields.io/badge/-django-092e20?logo=django&logoColor=white" /> | Sanitised old repos + add hit counters using https://hits.seeyoufarm.com/ | https://github.com/MexsonFernandes/Boilerplate-for-Django-ML-Model-Deployment | _
