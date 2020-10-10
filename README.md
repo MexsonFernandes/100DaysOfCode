@@ -48,7 +48,8 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="Python" src="https://img.shields.io/badge/-Python-306998?logo=python&logoColor=white" />
     <img alt="React" src="https://img.shields.io/badge/-React-000?logo=react&logoColor=61DBFB" />
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-000?logo=gitlab&logoColor=61DBFB" />
-    <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-fff?logo=algolia&logoColor=61DBFB" /> 
+    <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-fff?logo=algolia&logoColor=61DBFB" />
+    <img alt="Golang" src="https://img.shields.io/badge/-Golang-fff?logo=go&logoColor=29beb0" />
  </p>
  
 --------------
