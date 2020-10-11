@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 39 | 11th October 2020 | [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) | Ran forem with config on local machine  | https://gitlab.com/robomx/community | _
 | 38 | 10th October 2020 | <img alt="Golang" src="https://img.shields.io/badge/-Golang-fff?logo=go&logoColor=29beb0" /> | working on 4th PR of Hacktoberfest  | https://github.com/litmuschaos/litmus/issues/2156 | _
 | 37 | 9th October 2020 | <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-fff?logo=algolia&logoColor=61DBFB" /> | Algolia Search Box | https://github.com/robomx/OnSeAn | https://onsean.robomx.tech/
 | 36 | 8th October 2020 | <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-fff?logo=algolia&logoColor=61DBFB" /> | Plugin addition to OnSeAn | https://github.com/robomx/OnSeAn | https://onsean.robomx.tech/
