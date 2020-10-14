@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 42 | 14th October 2020 | <img alt="netlify" src="https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=39adbb"/><img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" /> | Netlify plugins, Lighthouse score | https://github.com/MexsonFernandes/portfolio | https://mexsonfernandes.com/
 | 41 | 13th October 2020 | <img alt="docker" src="https://img.shields.io/badge/-Docker-2580f7?logo=docker&logoColor=white"/>  | Setting up the server for production | https://gitlab.com/robomx/community | https://robomx.tech/
 | 40 | 12th October 2020 | <img alt="nginx" src="https://img.shields.io/badge/-Nginx-fff?logo=nginx&logoColor=29beb0" /> | Create systemd file + Nginx server + certbot | https://gitlab.com/robomx/community | https://robomx.tech/
 | 39 | 11th October 2020 | [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) | Ran forem with config on local machine  | https://gitlab.com/robomx/community | _
