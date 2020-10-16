@@ -4,7 +4,8 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 43 | 15th October 2020 | <img alt="netlify" src="https://img.shields.io/badge/-Graphql-white?logo=graphql&logoColor=f73e7d"/> | Graphql in Strapi, Nuxt integration | _ | _
+| 44 | 16th October 2020 | <img alt="strapi" src="https://img.shields.io/badge/-Strapi-white?logo=strapi&logoColor=f73e7d"/><img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Nuxtjs Graphql integration with Strapi backend | https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr | https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr/blob/main/res/demo.gif
+| 43 | 15th October 2020 | <img alt="Graphql" src="https://img.shields.io/badge/-Graphql-white?logo=graphql&logoColor=f73e7d"/> | Graphql in Strapi, Nuxt integration | _ | _
 | 42 | 14th October 2020 | <img alt="netlify" src="https://img.shields.io/badge/-Netlify-white?logo=netlify&logoColor=39adbb"/><img alt="angular" src="https://img.shields.io/badge/-Angular-d82d2f?logo=angular&logoColor=white" /> | Netlify plugins, Lighthouse score test, configure portfolio website to follow web standards | https://github.com/MexsonFernandes/portfolio | https://mexsonfernandes.com/
 | 41 | 13th October 2020 | <img alt="docker" src="https://img.shields.io/badge/-Docker-2580f7?logo=docker&logoColor=white"/>  | Setting up the server for production | https://gitlab.com/robomx/community | https://robomx.tech/
 | 40 | 12th October 2020 | <img alt="nginx" src="https://img.shields.io/badge/-Nginx-fff?logo=nginx&logoColor=29beb0" /> | Create systemd file + Nginx server + certbot | https://gitlab.com/robomx/community | https://robomx.tech/
