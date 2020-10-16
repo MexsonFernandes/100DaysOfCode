@@ -23,6 +23,7 @@ This list contains applications developed or modified in this code challenge. Pl
 11. [FreeCodeCamp Quality Assurance Course updates](https://github.com/MexsonFernandes/freecodecamp-quality-assurance)
 12. [Todo List Blockstack DApp](https://blockstack-todo-dapp.netlify.app/) / [Source Code](https://github.com/MexsonFernandes/blockstack-todos)
 13. [RoboMx Community](https://robomx.tech/) / [Source Code](https://gitlab.com/robomx/community)
+14. [Nuxtjs/Strapi.js/Graphql](https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr)
 ---
 
 ## Tech Stack
