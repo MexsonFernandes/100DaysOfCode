@@ -4,7 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 47 | 19th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Connect Nuxt with Netlify CMS (blog) | _ | _
+| 47 | 19th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>  | Connect Nuxt with Netlify CMS (blog) | _ | _
 | 46 | 18th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Install App prompt using a button | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate-n1xbf02uo.vercel.app/
 | 45 | 17th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Check for app updates feature | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate.vercel.app/
 | 44 | 16th October 2020 | <img alt="strapi" src="https://img.shields.io/badge/-Strapi-white?logo=strapi&logoColor=f73e7d"/><img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Nuxtjs Graphql integration with Strapi backend | https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr | https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr/blob/main/res/demo.gif
