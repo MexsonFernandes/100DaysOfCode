@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 48 | 20th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>  | Route slug endpoints | _ | https://www.robomx.com/blog/2020-10-20-this-is-a-image-test
 | 47 | 19th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>  | Connect Nuxt with Netlify CMS (blog) | _ | _
 | 46 | 18th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Install App prompt using a button | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate-n1xbf02uo.vercel.app/
 | 45 | 17th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Check for app updates feature | https://github.com/MexsonFernandes/nuxtjs-pwa-twa-boilerplate | https://nuxtjs-pwa-twa-boilerplate.vercel.app/
