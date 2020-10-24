@@ -4,7 +4,8 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 50 | 23rd October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Search feature added in blog | _ | https://www.robomx.com/blog
+| 52 | 24th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Filteration added, Custom error pages | _ | https://www.robomx.com/blog
+| 51 | 23rd October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Search feature added in blog | _ | https://www.robomx.com/blog
 | 50 | 22nd October 2020 | <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=typescript&logoColor=white" /> <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Complete custom code for debouncing search with NO external dependencies | https://gist.github.com/MexsonFernandes/d99d68160c3f256298b6d20228595f78 | https://www.robomx.com/blog
 | 49 | 21st October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>  | Add select field, Create tag list of featured posts, Generate trending blog post list | _ | https://www.robomx.com/blog
 | 48 | 20th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/>  | Route slug endpoints | _ | https://www.robomx.com/blog/2020-10-20-this-is-a-image-test
