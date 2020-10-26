@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 54 | 26th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" />  | Capacitor.js native app support to Nuxt.js app, add icon and splash resources | https://github.com/robomx/webidhunt | https://webidhunt.robomx.tech/
 | 53 | 25th October 2020 | <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" /> | Capacitor.js native app support to Gatsby app, add icon and splash resources | https://github.com/RoboMx/onsean | https://onsean.robomx.com/
 | 52 | 24th October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Filteration added, Custom error pages | _ | https://www.robomx.com/blog
 | 51 | 23rd October 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Search feature added in blog | _ | https://www.robomx.com/blog
