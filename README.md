@@ -23,7 +23,8 @@ This list contains applications developed or modified in this code challenge. Pl
 11. [FreeCodeCamp Quality Assurance Course updates](https://github.com/MexsonFernandes/freecodecamp-quality-assurance)
 12. [Todo List Blockstack DApp](https://blockstack-todo-dapp.netlify.app/) / [Source Code](https://github.com/MexsonFernandes/blockstack-todos)
 13. [RoboMx Community](https://robomx.tech/) / [Source Code](https://gitlab.com/robomx/community)
-14. [Nuxtjs/Strapi.js/Graphql](https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr)
+14. [Nuxt.js/Strapi.js/Graphql](https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr)
+15. [Nuxt.js/Capacitor.js/Electron.js Boilerplate](https://github.com/MexsonFernandes/nuxt-capacitor-app)/ [Demo](https://nuxt-capacitor-app.vercel.app/)
 ---
 
 ## Tech Stack
@@ -51,6 +52,8 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="Gitlab" src="https://img.shields.io/badge/-Gitlab-000?logo=gitlab&logoColor=61DBFB" />
     <img alt="Algolia" src="https://img.shields.io/badge/-Algolia-fff?logo=algolia&logoColor=61DBFB" />
     <img alt="Golang" src="https://img.shields.io/badge/-Golang-fff?logo=go&logoColor=29beb0" />
+    <img alt="Electron" src="https://img.shields.io/badge/-Electron-a4e5f0?logo=electron&logoColor=fff" /> 
+    <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor.js-55b6f7?logo=capacitor&logoColor=white" />
  </p>
  
 --------------
