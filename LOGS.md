@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 62 | 3rd November 2020 | <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" /> | App install button, eslint fix | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
 | 61 | 2nd November 2020 | <img alt="git" src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white"/> | Blockstack ToDo list app PR is approved and master branch is up to date to be merged off. | https://github.com/blockstack/blockstack-todos/pull/50 | https://blockstack-todo-dapp.netlify.app/
 | 60 | 1st November 2020 |<img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" /> | iOS support added in the boilerplate | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
 | 59 | 31st October 2020 | <img alt="xcode" src="https://img.shields.io/badge/-Xcode-008bf5?logo=xcode&logoColor=white" /> <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" /> | Xcode setup for Capacitor.js app, tested app on Safari browser | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
