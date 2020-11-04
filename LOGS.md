@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 63 | 4th November 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | Middlewares for an express app using Helmet.js and hashing passwords using bcrypt module. | https://repl.it/@MexsonFernandes/InformationSecurityHelmetJs | https://repl.it/@MexsonFernandes/boilerplate-bcrypt
 | 62 | 3rd November 2020 | <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" /> | App install button, eslint fix | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
 | 61 | 2nd November 2020 | <img alt="git" src="https://img.shields.io/badge/-Git-F1502F?logo=git&logoColor=white"/> | Blockstack ToDo list app PR is approved and master branch is up to date to be merged off. | https://github.com/blockstack/blockstack-todos/pull/50 | https://blockstack-todo-dapp.netlify.app/
 | 60 | 1st November 2020 |<img alt="capacitor" src="https://img.shields.io/badge/-Capacitor-55b6f7?logo=capacitor.js&logoColor=white" /> | iOS support added in the boilerplate | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
