@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 68 | 9th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Added SEO modules required + improved lighthouse score. | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
 | 67 | 8th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" /> <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" /> | ESLint run on every commit and stop the commit. | https://github.com/MexsonFernandes/nuxt-capacitor-app | _
 | 66 | 7th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" /> | Prettier for code on every commit using husky. | https://github.com/MexsonFernandes/nuxt-capacitor-app | _
 | 65 | 6th November 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" /> | Banner grabber and port scanner module completed. Complete course is down with classes. | https://github.com/MexsonFernandes/python-penetration-testing-freecodecamp | https://gitpod.io/#https://github.com/MexsonFernandes/python-penetration-testing-freecodecamp
