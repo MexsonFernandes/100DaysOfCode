@@ -25,6 +25,7 @@ This list contains applications developed or modified in this code challenge. Pl
 13. [RoboMx Community](https://robomx.tech/) / [Source Code](https://gitlab.com/robomx/community)
 14. [Nuxt.js/Strapi.js/Graphql](https://github.com/MexsonFernandes/nuxtjs-strapi-graphql-apollo-ssr)
 15. [Nuxt.js/Capacitor.js/Electron.js Boilerplate](https://github.com/MexsonFernandes/nuxt-capacitor-app)/ [Demo](https://nuxt-capacitor-app.vercel.app/)
+16. [Nuxt.js/NetlifyCMS Template](https://github.com/MexsonFernandes/nuxt-netlify-doc/)/[Demo](https://nuxt-cms-content-doc.netlify.app/admin)
 ---
 
 ## Tech Stack
