@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 78 | 20th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />  | Completed with v2020.0.0  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
 | 77 | 19th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create nuxt netlify cms docs  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
 | 76 | 18th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Hit counter in blog, next + prev feature in blog, content search feature  | _ | https://www.robomx.com/blog/
 | 75 | 17th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> <img alt="ionic" src="https://img.shields.io/badge/-Ionic-4586f7?logo=ionic&logoColor=white" /> | Ionic components used completely  | https://github.com/MexsonFernandes/nuxt-ionic-capacitor-app | https://nuxt-capacitor-app.vercel.app/
