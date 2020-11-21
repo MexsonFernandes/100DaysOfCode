@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 79 | 21st November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Nuxt.js SEO helper  | https://github.com/MexsonFernandes/nuxt-seo-helper | _
 | 78 | 20th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />  | Completed with v2020.0.0  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
 | 77 | 19th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create nuxt netlify cms docs  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
 | 76 | 18th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Hit counter in blog, next + prev feature in blog, content search feature  | _ | https://www.robomx.com/blog/
