@@ -4,7 +4,8 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 80 | 24th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />  | netlify login widget, template configuration based on user inputs  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
+| 81 | 24th November 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />  | netlify login widget, template configuration based on user inputs  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
+| 80 | 22nd November 2020 | <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" /> | Improved lighthouse score  | https://github.com/MexsonFernandes/nuxt-ionic-capacitor-app | https://nuxt-capacitor-app.vercel.app
 | 79 | 21st November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Nuxt.js SEO helper  | https://github.com/MexsonFernandes/nuxt-seo-helper | _
 | 78 | 20th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />  | Completed with v2020.0.0  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
 | 77 | 19th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create nuxt netlify cms docs  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
