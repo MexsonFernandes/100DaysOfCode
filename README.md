@@ -28,6 +28,7 @@ This list contains applications developed or modified in this code challenge. Pl
 15. [Nuxt.js/Capacitor.js/Electron.js Boilerplate](https://github.com/MexsonFernandes/nuxt-capacitor-app)/ [Demo](https://nuxt-capacitor-app.vercel.app/)
 16. [Nuxt.js/NetlifyCMS Template](https://github.com/MexsonFernandes/nuxt-netlify-doc/)/[Demo](https://nuxt-cms-content-doc.netlify.app/admin)
 17. [Nuxt.js SEO helper](https://github.com/MexsonFernandes/nuxt-seo-helper)
+18. [NPM Package Nuxt/NetlifyCMS doc](https://www.npmjs.com/package/create-nuxt-netlify-cms-docs)
 ---
 
 ## Tech Stack
