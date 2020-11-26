@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 83 | 26th November 2020 | <img alt="spring boot" src="https://img.shields.io/badge/-Spring Boot-6aad3d?logo=spring&logoColor=white" />  | Jhipster platform check, learnt some infos about monoliths and micro services platforms, entity generation is also handy | _ | https://www.jhipster.tech/microservices-architecture/
 | 82 | 25th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />  | Ready with new version v2020.1.0  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://www.npmjs.com/package/create-nuxt-netlify-cms-docs
 | 81 | 24th November 2020 | <img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F0DB4F?logo=javascript&logoColor=white" />  | netlify login widget, template configuration based on user inputs  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://nuxt-netlify-cms-docs.robomx.tech/
 | 80 | 22nd November 2020 | <img alt="lighthouse" src="https://img.shields.io/badge/-Lighthouse-2F4DF7?logo=lighthouse&logoColor=white" /> | Improved lighthouse score  | https://github.com/MexsonFernandes/nuxt-ionic-capacitor-app | https://nuxt-capacitor-app.vercel.app
