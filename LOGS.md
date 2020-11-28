@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 85 | 28th November 2020 | <img alt="keycloak" src="https://img.shields.io/badge/-Keycloak-fff" />  | Starting out the template repo for oauth module | https://github.com/MexsonFernandes/jhipster-keycloak | https://www.jhipster.tech/docker-compose/#-keycloak
 | 84 | 27th November 2020 | <img alt="oauth" src="https://img.shields.io/badge/-OAUTH-fff" />  | Jhipster platform  with Keycloak | _ | https://www.jhipster.tech/docker-compose/#-keycloak
 | 83 | 26th November 2020 | <img alt="spring boot" src="https://img.shields.io/badge/-Spring Boot-6aad3d?logo=spring&logoColor=white" />  | Jhipster platform check, learnt some infos about monoliths and micro services platforms, entity generation is also handy | _ | https://www.jhipster.tech/microservices-architecture/
 | 82 | 25th November 2020 | <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?logo=npm&logoColor=white" />  | Ready with new version v2020.1.0  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://www.npmjs.com/package/create-nuxt-netlify-cms-docs
