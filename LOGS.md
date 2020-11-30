@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 87 | 30th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | App installation button fix | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
 | 86 | 29th November 2020 |  <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" />  | Adding more info on SEO with twitter, open graph tags | https://github.com/MexsonFernandes/nuxt-seo-helper | 
 | 85 | 28th November 2020 | <img alt="keycloak" src="https://img.shields.io/badge/-Keycloak-fff" />  | Starting out the template repo for oauth module | https://github.com/MexsonFernandes/jhipster-keycloak | https://www.jhipster.tech/docker-compose/#-keycloak
 | 84 | 27th November 2020 | <img alt="oauth" src="https://img.shields.io/badge/-OAUTH-fff" />  | Jhipster platform  with Keycloak | _ | https://www.jhipster.tech/docker-compose/#-keycloak
