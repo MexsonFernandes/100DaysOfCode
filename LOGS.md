@@ -4,7 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
-| 89 | 2nd December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Netlify CMS integration for i18n | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/i18n
+| 89 | 2nd December 2020 | <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/> | Netlify CMS integration for i18n | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/i18n
 | 88 | 1st December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | i18n setup in nuxt with json | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/
 | 87 | 30th November 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | App installation button fix | https://github.com/MexsonFernandes/nuxt-capacitor-app | https://nuxt-capacitor-app.vercel.app/
 | 86 | 29th November 2020 |  <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" />  | Adding more info on SEO with twitter, open graph tags | https://github.com/MexsonFernandes/nuxt-seo-helper | 
