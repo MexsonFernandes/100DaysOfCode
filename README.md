@@ -59,6 +59,10 @@ This are some of the stack that I am learning or improving over the challenge.
     <img alt="Golang" src="https://img.shields.io/badge/-Golang-fff?logo=go&logoColor=29beb0" />
     <img alt="Electron" src="https://img.shields.io/badge/-Electron-a4e5f0?logo=electron&logoColor=fff" /> 
     <img alt="capacitor" src="https://img.shields.io/badge/-Capacitor.js-55b6f7?logo=capacitor&logoColor=white" />
+    <img alt="spring boot" src="https://img.shields.io/badge/-Spring Boot-6aad3d?logo=spring&logoColor=white" />
+    <img alt="xcode" src="https://img.shields.io/badge/-Xcode-008bf5?logo=xcode&logoColor=white" />
+    <img alt="typescript" src="https://img.shields.io/badge/-TypeScript-2f74c0?logo=typescript&logoColor=white" />
+    <img alt="Graphql" src="https://img.shields.io/badge/-Graphql-white?logo=graphql&logoColor=f73e7d"/>
  </p>
  
 --------------
