@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 92 | 6th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Setup of npm nuxt module, commitlint setup. | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 91 | 4th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Nuxt module creation, chalk module, run netlify cms proxy server | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/i18n
 | 90 | 3rd December 2020 | <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/> | Page route config in i18n content with list of data | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/i18n
 | 89 | 2nd December 2020 | <img alt="netlify-cms" src="https://img.shields.io/badge/-Netlify CMS-000?logo=netlify&logoColor=c3f249"/> | Netlify CMS integration for i18n | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/i18n
