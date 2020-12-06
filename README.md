@@ -29,6 +29,7 @@ This list contains applications developed or modified in this code challenge. Pl
 16. [Nuxt.js/NetlifyCMS Template](https://github.com/MexsonFernandes/nuxt-netlify-doc/)/[Demo](https://nuxt-cms-content-doc.netlify.app/admin)
 17. [Nuxt.js SEO helper](https://github.com/MexsonFernandes/nuxt-seo-helper)
 18. [NPM Package Nuxt/NetlifyCMS doc](https://www.npmjs.com/package/create-nuxt-netlify-cms-docs)
+19. [NPM Package Nuxt-i18n/NetlifyCMS](https://github.com/RoboMx/nuxt-i18n-netlify-cms) / [Example](https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example)
 ---
 
 ## Tech Stack
