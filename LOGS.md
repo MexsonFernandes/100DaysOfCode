@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 94 | 8th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create Netlify CMS route based on config, Load vue i18n json config, Run Netlify CMS proxy server  | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 93 | 7th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Created PR in awesome nuxt, add example nuxt i18n code to this new module  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://github.com/RoboMx/nuxt-i18n-netlify-cms
 | 92 | 6th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Setup of npm nuxt module, commitlint setup. | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 91 | 4th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Nuxt module creation, chalk module, run netlify cms proxy server | https://github.com/MexsonFernandes/nuxt-i18n-netlify-cms-example | https://nuxt-i18n-netlify-cms-example.vercel.app/i18n
