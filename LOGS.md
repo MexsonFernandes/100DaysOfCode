@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 96 | 10th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Module v2020.0.0 is ready | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 95 | 9th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | i18n config added  | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 94 | 8th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create Netlify CMS route based on config, Load vue i18n json config, Run Netlify CMS proxy server  | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 93 | 7th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Created PR in awesome nuxt, add example nuxt i18n code to this new module  | https://github.com/RoboMx/create-nuxt-netlify-cms-docs | https://github.com/RoboMx/nuxt-i18n-netlify-cms
