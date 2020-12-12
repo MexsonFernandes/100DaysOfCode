@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 97 | 12th December 2020 | <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-fff?logo=gatsby&logoColor=542c85"/>  | PWA app updates | https://github.com/MexsonFernandes/gatsby-pwa-starter | https://gatsby-pwa-starter.robomx.vercel.app/
 | 96 | 10th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Module v2020.0.0 is ready | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 95 | 9th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | i18n config added  | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
 | 94 | 8th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Create Netlify CMS route based on config, Load vue i18n json config, Run Netlify CMS proxy server  | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
