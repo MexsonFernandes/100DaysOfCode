@@ -4,6 +4,7 @@
 
 |:clock430: Day        |:calendar: Date           | :computer: Stack | :hourglass: Progress  | :octocat: Repo | :link: Demo | 
 | :------------- |:-------------| -----| -----| -----|-----|
+| 98 | 13th December 2020 | <img alt="Python" src="https://img.shields.io/badge/-python-306998?logo=python&logoColor=white" />  | Djanyolo package for managing images. | https://github.com/RoboMx/djanyolo | _
 | 97 | 12th December 2020 | <img alt="gatsby" src="https://img.shields.io/badge/-Gatsby-fff?logo=gatsby&logoColor=542c85"/>  | PWA app updates | https://github.com/MexsonFernandes/gatsby-pwa-starter | https://gatsby-pwa-starter.robomx.vercel.app/
 | - | - | - |-| -| -
 | 96 | 10th December 2020 | <img alt="nuxtjs" src="https://img.shields.io/badge/-Nuxt.js-41b883?logo=nuxt.js&logoColor=white" /> | Module v2020.0.0 is ready | https://github.com/RoboMx/nuxt-i18n-netlify-cms | _
